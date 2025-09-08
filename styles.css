@@ -1,0 +1,111 @@
+body {
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 100px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(58, 204, 114);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(57, 182, 40);
+}
+
+.video-principal {
+    border: 5px solid #c92121;
+    border-radius: 16px;
+}
+
+.destaquee{
+    font-size: 35px;
+    color: red;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* espaço entre logo e texto */
+}
+
+.logo {
+    height: 90px; /* ajuste o tamanho conforme necessário */
+    width: auto;
+}
+
+.nome-site {
+    margin: 0;
+    font-size: 30px;
+    color: #333;
+    font-family: "DynaPuff", sans-serif;
+}
+
+.chamada {
+    background-image: url('fotochamada.jpg');
+    background-position: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "DynaPuff", sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    border-radius: 16px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+    border-radius: 16px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+    border-radius: 16px;
+}
+
+.categoria2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-imagens img {
+    height: 200px;
+    border-radius: 16px;
+}
+
+.categoria h2 {
+    color: rgb(58, 204, 114);
+    font-size: 25px;
+}
+
+.categoria2 h2 {
+    color: rgb(58, 204, 114);
+    font-size: 25px;
+}
