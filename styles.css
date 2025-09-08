@@ -124,5 +124,5 @@ p {
 
 .problemas h3 {
     display: flex;
-    align-self: auto;
+    margin: auto;
 }
