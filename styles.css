@@ -121,3 +121,8 @@ p {
     color: rgb(0, 106, 184);
     font-size: 28px;
 }
+
+.problemas h3 {
+    display: flex;
+    align-self: auto;
+}
