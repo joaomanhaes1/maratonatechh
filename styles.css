@@ -114,4 +114,10 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 10px;
+    font-size: 16px;
+}
+
+.textos h2 {
+    color: rgb(0, 106, 184);
+    font-size: 25px;
 }
