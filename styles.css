@@ -49,6 +49,9 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    stroke: rgb(238, 164, 47);
+    stroke-width: 3px;
+    border-radius: 16px;
 }
 
 .chamada-texto {
